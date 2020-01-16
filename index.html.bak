@@ -1,0 +1,1974 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1"> <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>CUNOVEL</title>
+  <meta name="keywords" content="novel, english novel, english book, book" /> <!-- Bootstrap -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://cunovel.com/asset/css/index.css" rel="stylesheet">
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>  <![endif]-->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <script>    (adsbygoogle = window.adsbygoogle || []).push({ google_ad_client: "ca-pub-1217509255829092", enable_page_level_ads: true });  </script>
+  <style type="text/css">
+    .chapter-title {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+    }
+  </style> <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144813087-2"></script>
+  <script>    window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'UA-144813087-2');  </script>
+</head>
+
+<body>
+  <nav class="navbar navbar-fixed-top navbar-inverse">
+    <div class="container">
+      <div class="navbar-header"> <button type="button" class="navbar-toggle collapsed" data-toggle="collapse"
+          data-target="#navbar" aria-expanded="false" aria-controls="navbar"> <span class="sr-only">Toggle
+            navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span
+            class="icon-bar"></span> </button> <a class="navbar-brand" href="/index.html">CU Novel</a> </div>
+      <div id="navbar" class="navbar-collapse collapse" aria-expanded="false" style="height: 1px;">
+        <ul class="nav navbar-nav">
+          <li class=""><a href="/index.html">Home</a></li>
+          <li class=""><a href="/category_Wuxia/1.html">Wu Xia</a></li>
+          <li class=""><a href="/category_Adventure/1.html">Adventure</a></li>
+          <li class=""><a href="/category_Science_Fiction/1.html">Science Fiction</a></li>
+          <li class=""><a href="/category_Romance/1.html">Romance</a></li>
+          <li class=""> <a class="dropdown-toggle" data-toggle="dropdown" href="#">More Categories <i
+                class="icon-plus"></i></a>
+            <ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+              <li class=""><a href="/category_Humorous/1.html">Humorous</a></li>
+              <li class=""><a href="/category_Thriller/1.html">Thriller</a></li>
+              <li class=""><a href="/category_Horror/1.html">Horror</a></li>
+              <li class=""><a href="/category_Short_Story/1.html">Short Story</a></li>
+              <li class=""><a href="/category_Historical/1.html">Historical</a></li>
+              <li class=""><a href="/category_Fantasy/1.html">Fantasy</a></li>
+              <li class=""><a href="/category_Mystery/1.html">Mystery</a></li>
+              <li class=""><a href="/category_Young_Adult/1.html">Young Adult</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div><!-- /.nav-collapse -->
+
+    </div><!-- /.container -->
+  </nav><!-- /.navbar -->
+  <div id="body" class="container" style="margin-top:100px">
+    <div class="row row-offcanvas row-offcanvas-right">
+      <div class="col-xs-12 col-sm-9">
+        <div>
+          <script async src="https://cse.google.com/cse.js?cx=000276152944428193074:o2fcgxpgutc"></script>
+          <div class="gcse-search"></div>
+        </div>
+        <div class="jumbotron">
+          <h1>Hello, Novel Lover!</h1>
+          <p>I hope this is the world where you can find your lovest novel!</p>
+        </div>
+        <div class="row">
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Adventure</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Adventure/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Lost Symbol (Robert Langdon %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-lost-symbol-robert-langdon-3.jpg" class="module-slide-img"
+                      alt="The Lost Symbol (Robert Langdon #3)">
+                    <figcaption class="module-slide-caption">The Lost Symbol (Robert Langdon #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Dan Brown</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Golden Compass (His Dark Materials %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-golden-compass-his-dark-materials-1.jpg"
+                      class="module-slide-img" alt="The Golden Compass (His Dark Materials #1)">
+                    <figcaption class="module-slide-caption">The Golden Compass (His Dark Materials #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Philip Pullman</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a
+                    href="/The Dark Elf Trilogy: Homeland (The Dark Elf Trilogy %231)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-dark-elf-trilogy-homeland-the-dark-elf-trilogy-1.jpg"
+                      class="module-slide-img" alt="The Dark Elf Trilogy: Homeland (The Dark Elf Trilogy #1)">
+                    <figcaption class="module-slide-caption">The Dark Elf Trilogy: Homeland (The Dark Elf Trilogy #1)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">R.A. Salvatore</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Necroscope III: The Source (Necroscope %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/necroscope-iii-the-source-necroscope-3.jpg"
+                      class="module-slide-img" alt="Necroscope III: The Source (Necroscope #3)">
+                    <figcaption class="module-slide-caption">Necroscope III: The Source (Necroscope #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Brian Lumley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Necroscope V: Deadspawn (Necroscope %235)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/necroscope-v-deadspawn-necroscope-5.jpg" class="module-slide-img"
+                      alt="Necroscope V: Deadspawn (Necroscope #5)">
+                    <figcaption class="module-slide-caption">Necroscope V: Deadspawn (Necroscope #5)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Brian Lumley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Promise of the Witch King (The Sellswords %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/promise-of-the-witch-king-the-sellswords-2.jpg"
+                      class="module-slide-img" alt="Promise of the Witch King (The Sellswords #2)">
+                    <figcaption class="module-slide-caption">Promise of the Witch King (The Sellswords #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">R.A. Salvatore</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Standard Bearer (Sword of Rome %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/standard-bearer-sword-of-rome-1.jpg" class="module-slide-img"
+                      alt="Standard Bearer (Sword of Rome #1)">
+                    <figcaption class="module-slide-caption">Standard Bearer (Sword of Rome #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Richard Foreman</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Airport/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/airport.jpg"
+                      class="module-slide-img" alt="Airport">
+                    <figcaption class="module-slide-caption">Airport</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Arthur Hailey</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Sword In the Grotto (Araminta Spook %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-sword-in-the-grotto-araminta-spook-2.jpg"
+                      class="module-slide-img" alt="The Sword In the Grotto (Araminta Spook #2)">
+                    <figcaption class="module-slide-caption">The Sword In the Grotto (Araminta Spook #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Angie Sage</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Deep Fathom/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/deep-fathom.jpg"
+                      class="module-slide-img" alt="Deep Fathom">
+                    <figcaption class="module-slide-caption">Deep Fathom</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">James Rollins</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Horror</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Horror/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Lair of the White Worm/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-lair-of-the-white-worm.jpg" class="module-slide-img"
+                      alt="The Lair of the White Worm">
+                    <figcaption class="module-slide-caption">The Lair of the White Worm</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Bram Stoker</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Misery/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/misery.jpg"
+                      class="module-slide-img" alt="Misery">
+                    <figcaption class="module-slide-caption">Misery</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Stephen King</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Dracula/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/dracula.jpg"
+                      class="module-slide-img" alt="Dracula">
+                    <figcaption class="module-slide-caption">Dracula</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Bram Stoker</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Once Burned (Night Prince %231)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/once-burned-night-prince-1.jpg" class="module-slide-img"
+                      alt="Once Burned (Night Prince #1)">
+                    <figcaption class="module-slide-caption">Once Burned (Night Prince #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jeaniene Frost</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Sunshine/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/sunshine.jpg"
+                      class="module-slide-img" alt="Sunshine">
+                    <figcaption class="module-slide-caption">Sunshine</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Robin McKinley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Necroscope II: Wamphyri (Necroscope %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/necroscope-ii-wamphyri-necroscope-2.jpg" class="module-slide-img"
+                      alt="Necroscope II: Wamphyri (Necroscope #2)">
+                    <figcaption class="module-slide-caption">Necroscope II: Wamphyri (Necroscope #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Brian Lumley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Vampire$/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/vampire.jpg"
+                      class="module-slide-img" alt="Vampire$">
+                    <figcaption class="module-slide-caption">Vampire$</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">John Steakley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Lord Loss (The Demonata %231)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/lord-loss-the-demonata-1.jpg" class="module-slide-img"
+                      alt="Lord Loss (The Demonata #1)">
+                    <figcaption class="module-slide-caption">Lord Loss (The Demonata #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Darren Shan</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Demon Thief (The Demonata %232)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/demon-thief-the-demonata-2.jpg" class="module-slide-img"
+                      alt="Demon Thief (The Demonata #2)">
+                    <figcaption class="module-slide-caption">Demon Thief (The Demonata #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Darren Shan</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Slawter (The Demonata %233)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/slawter-the-demonata-3.jpg" class="module-slide-img"
+                      alt="Slawter (The Demonata #3)">
+                    <figcaption class="module-slide-caption">Slawter (The Demonata #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Darren Shan</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Inspirational</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Inspirational/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/史蒂夫·乔布斯传记 Steve Jobs: A Biography/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201404/25/15-25-16-18-1.jpg" class="module-slide-img"
+                      alt="史蒂夫·乔布斯传记 Steve Jobs: A Biography">
+                    <figcaption class="module-slide-caption">史蒂夫·乔布斯传记 Steve Jobs: A Biography</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/富甲美国 : 零售大王沃尔顿自传 Sam Walton: Made In America/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201311/26/10-42-47-51-1.jpg" class="module-slide-img"
+                      alt="富甲美国 : 零售大王沃尔顿自传 Sam Walton: Made In America">
+                    <figcaption class="module-slide-caption">富甲美国 : 零售大王沃尔顿自传 Sam Walton: Made In America</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Maker of Moons/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Maker of Moons">
+                    <figcaption class="module-slide-caption">The Maker of Moons</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Mr. Justice Raffles/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201404/08/14-46-55-33-1.jpg" class="module-slide-img"
+                      alt="Mr. Justice Raffles">
+                    <figcaption class="module-slide-caption">Mr. Justice Raffles</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The King of the Mountains/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The King of the Mountains">
+                    <figcaption class="module-slide-caption">The King of the Mountains</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Kim/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Kim">
+                    <figcaption class="module-slide-caption">Kim</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Kerfol/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Kerfol">
+                    <figcaption class="module-slide-caption">Kerfol</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a
+                    href="/90秒内赢得好感 How to Make People Like You in 90 Seconds or Less/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201311/28/13-23-45-53-1.jpg" class="module-slide-img"
+                      alt="90秒内赢得好感 How to Make People Like You in 90 Seconds or Less">
+                    <figcaption class="module-slide-caption">90秒内赢得好感 How to Make People Like You in 90 Seconds or Less
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Born to Run 天生就会跑/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201311/25/13-41-00-47-1.jpg" class="module-slide-img"
+                      alt="Born to Run 天生就会跑">
+                    <figcaption class="module-slide-caption">Born to Run 天生就会跑</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/向前一步 Lean In/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201311/21/10-27-17-11-1.jpg" class="module-slide-img"
+                      alt="向前一步 Lean In">
+                    <figcaption class="module-slide-caption">向前一步 Lean In</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Celebrity Biographies</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Celebrity_Biographies/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/Lord George Bentinck A Political Biography/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Lord George Bentinck A Political Biography">
+                    <figcaption class="module-slide-caption">Lord George Bentinck A Political Biography</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Lives of Famous Indian Chiefs/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Lives of Famous Indian Chiefs">
+                    <figcaption class="module-slide-caption">Lives of Famous Indian Chiefs</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Socialism/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Socialism">
+                    <figcaption class="module-slide-caption">Socialism</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/George Cruikshank/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="George Cruikshank">
+                    <figcaption class="module-slide-caption">George Cruikshank</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Joseph Priestley/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Joseph Priestley">
+                    <figcaption class="module-slide-caption">Joseph Priestley</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The life of Friedrich Nietzsche/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The life of Friedrich Nietzsche">
+                    <figcaption class="module-slide-caption">The life of Friedrich Nietzsche</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Life of Robert Stevenson/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Life of Robert Stevenson">
+                    <figcaption class="module-slide-caption">Life of Robert Stevenson</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Man Who Found Himself/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The Man Who Found Himself">
+                    <figcaption class="module-slide-caption">The Man Who Found Himself</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Harriet Beecher Stowe/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Harriet Beecher Stowe">
+                    <figcaption class="module-slide-caption">Harriet Beecher Stowe</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a
+                    href="/A Lady of England-The Life and Letters of Charlotte Maria Tucker/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="A Lady of England-The Life and Letters of Charlotte Maria Tucker">
+                    <figcaption class="module-slide-caption">A Lady of England-The Life and Letters of Charlotte Maria
+                      Tucker</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Romance</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Romance/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/Born in Fire (Born In Trilogy %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/born-in-fire-born-in-trilogy-1.jpg" class="module-slide-img"
+                      alt="Born in Fire (Born In Trilogy #1)">
+                    <figcaption class="module-slide-caption">Born in Fire (Born In Trilogy #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Nora Roberts</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a
+                    href="/Always and Forever, Lara Jean (To All the Boys I've Loved Before %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/always-and-forever-lara-jean-to-all-the-boys-i-ve-loved-before-3.jpg"
+                      class="module-slide-img"
+                      alt="Always and Forever, Lara Jean (To All the Boys I've Loved Before #3)">
+                    <figcaption class="module-slide-caption">Always and Forever, Lara Jean (To All the Boys I've Loved
+                      Before #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jenny Han</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Wedding Date/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-wedding-date.jpg" class="module-slide-img"
+                      alt="The Wedding Date">
+                    <figcaption class="module-slide-caption">The Wedding Date</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jasmine Guillory</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Blood Fury (Black Dagger Legacy %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/blood-fury-black-dagger-legacy-3.jpg" class="module-slide-img"
+                      alt="Blood Fury (Black Dagger Legacy #3)">
+                    <figcaption class="module-slide-caption">Blood Fury (Black Dagger Legacy #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">J.R. Ward</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Blood Vow (Black Dagger Legacy %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/blood-vow-black-dagger-legacy-2.jpg" class="module-slide-img"
+                      alt="Blood Vow (Black Dagger Legacy #2)">
+                    <figcaption class="module-slide-caption">Blood Vow (Black Dagger Legacy #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">J.R. Ward</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Blood Kiss (Black Dagger Legacy %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/blood-kiss-black-dagger-legacy-1.jpg" class="module-slide-img"
+                      alt="Blood Kiss (Black Dagger Legacy #1)">
+                    <figcaption class="module-slide-caption">Blood Kiss (Black Dagger Legacy #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">J.R. Ward</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Boy Who Sneaks in My Bedroom Window/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-boy-who-sneaks-in-my-bedroom-window.jpg"
+                      class="module-slide-img" alt="The Boy Who Sneaks in My Bedroom Window">
+                    <figcaption class="module-slide-caption">The Boy Who Sneaks in My Bedroom Window</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Kirsty Moseley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Taking It All (Surrender Trilogy %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/taking-it-all-surrender-trilogy-3.jpg" class="module-slide-img"
+                      alt="Taking It All (Surrender Trilogy #3)">
+                    <figcaption class="module-slide-caption">Taking It All (Surrender Trilogy #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Maya banks</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Giving In (Surrender Trilogy %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/giving-in-surrender-trilogy-2.jpg" class="module-slide-img"
+                      alt="Giving In (Surrender Trilogy #2)">
+                    <figcaption class="module-slide-caption">Giving In (Surrender Trilogy #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Maya banks</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Letting Go (Surrender Trilogy %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/letting-go-surrender-trilogy-1.jpg" class="module-slide-img"
+                      alt="Letting Go (Surrender Trilogy #1)">
+                    <figcaption class="module-slide-caption">Letting Go (Surrender Trilogy #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Maya banks</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Classic</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Classic/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/苏菲的世界 Sophies World/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="苏菲的世界 Sophies World">
+                    <figcaption class="module-slide-caption">苏菲的世界 Sophies World</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/基地系列 FOUNDATION 基地/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201606/23/10-50-50-24-1.jpg" class="module-slide-img"
+                      alt="基地系列 FOUNDATION 基地">
+                    <figcaption class="module-slide-caption">基地系列 FOUNDATION 基地</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/冰与火之歌：A Feast for Crows 群鸦的盛宴/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201605/31/14-51-15-74-1.jpg" class="module-slide-img"
+                      alt="冰与火之歌：A Feast for Crows 群鸦的盛宴">
+                    <figcaption class="module-slide-caption">冰与火之歌：A Feast for Crows 群鸦的盛宴</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Unadjusted Girl/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Unadjusted Girl">
+                    <figcaption class="module-slide-caption">The Unadjusted Girl</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A Case of Sunburn/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="A Case of Sunburn">
+                    <figcaption class="module-slide-caption">A Case of Sunburn</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a
+                    href="/Pioneers Of France In The New World: France and England in North America/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Pioneers Of France In The New World: France and England in North America">
+                    <figcaption class="module-slide-caption">Pioneers Of France In The New World: France and England in
+                      North America</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Crimes and Punishments/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Crimes and Punishments">
+                    <figcaption class="module-slide-caption">Crimes and Punishments</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Typee(A Romance of the South Sea)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Typee(A Romance of the South Sea)">
+                    <figcaption class="module-slide-caption">Typee(A Romance of the South Sea)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A History of Aeronautics/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="A History of Aeronautics">
+                    <figcaption class="module-slide-caption">A History of Aeronautics</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Cassell's History of England/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Cassell's History of England">
+                    <figcaption class="module-slide-caption">Cassell's History of England</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Science Fiction</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Science_Fiction/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/At the Earth's Core/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="At the Earth's Core">
+                    <figcaption class="module-slide-caption">At the Earth's Core</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Son of Tarzan/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Son of Tarzan">
+                    <figcaption class="module-slide-caption">The Son of Tarzan</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Return of Tarzan/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Return of Tarzan">
+                    <figcaption class="module-slide-caption">The Return of Tarzan</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The People that Time Forgot/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The People that Time Forgot">
+                    <figcaption class="module-slide-caption">The People that Time Forgot</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Outlaw of Torn/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Outlaw of Torn">
+                    <figcaption class="module-slide-caption">The Outlaw of Torn</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Oakdale Affair/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Oakdale Affair">
+                    <figcaption class="module-slide-caption">The Oakdale Affair</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Monster Men/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Monster Men">
+                    <figcaption class="module-slide-caption">The Monster Men</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Mad King/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="The Mad King">
+                    <figcaption class="module-slide-caption">The Mad King</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Lost Continent/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="The Lost Continent">
+                    <figcaption class="module-slide-caption">The Lost Continent</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Land That Time Forgot/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The Land That Time Forgot">
+                    <figcaption class="module-slide-caption">The Land That Time Forgot</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Young Adult</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Young_Adult/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/Thief (Breeding %233)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/thief-breeding-3.jpg" class="module-slide-img"
+                      alt="Thief (Breeding #3)">
+                    <figcaption class="module-slide-caption">Thief (Breeding #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Alexa Riley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Mechanic (Breeding %232)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/mechanic-breeding-2.jpg" class="module-slide-img"
+                      alt="Mechanic (Breeding #2)">
+                    <figcaption class="module-slide-caption">Mechanic (Breeding #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Alexa Riley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Coach (Breeding %231)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/coach-breeding-1.jpg" class="module-slide-img"
+                      alt="Coach (Breeding #1)">
+                    <figcaption class="module-slide-caption">Coach (Breeding #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Alexa Riley</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Rumpelstiltskin (Timeless Fairy Tales %234)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/rumpelstiltskin-timeless-fairy-tales-4.jpg"
+                      class="module-slide-img" alt="Rumpelstiltskin (Timeless Fairy Tales #4)">
+                    <figcaption class="module-slide-caption">Rumpelstiltskin (Timeless Fairy Tales #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">K.M. Shea</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Cinderella and the Colonel (Timeless Fairy Tales %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/cinderella-and-the-colonel-timeless-fairy-tales-3.jpg"
+                      class="module-slide-img" alt="Cinderella and the Colonel (Timeless Fairy Tales #3)">
+                    <figcaption class="module-slide-caption">Cinderella and the Colonel (Timeless Fairy Tales #3)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">K.M. Shea</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Wild Swans (Timeless Fairy Tales %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-wild-swans-timeless-fairy-tales-2.jpg"
+                      class="module-slide-img" alt="The Wild Swans (Timeless Fairy Tales #2)">
+                    <figcaption class="module-slide-caption">The Wild Swans (Timeless Fairy Tales #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">K.M. Shea</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Beauty and the Beast (Timeless Fairy Tales %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/beauty-and-the-beast-timeless-fairy-tales-1.jpg"
+                      class="module-slide-img" alt="Beauty and the Beast (Timeless Fairy Tales #1)">
+                    <figcaption class="module-slide-caption">Beauty and the Beast (Timeless Fairy Tales #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">K.M. Shea</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Twisted (Tangled %232)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/twisted-tangled-2.jpg" class="module-slide-img"
+                      alt="Twisted (Tangled #2)">
+                    <figcaption class="module-slide-caption">Twisted (Tangled #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Emma Chase</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/One with You (Crossfire %235)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/one-with-you-crossfire-5.jpg" class="module-slide-img"
+                      alt="One with You (Crossfire #5)">
+                    <figcaption class="module-slide-caption">One with You (Crossfire #5)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Sylvia Day</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Captivated by You (Crossfire %234)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/captivated-by-you-crossfire-4.jpg" class="module-slide-img"
+                      alt="Captivated by You (Crossfire #4)">
+                    <figcaption class="module-slide-caption">Captivated by You (Crossfire #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Sylvia Day</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Wuxia</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Wuxia/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/7 Killers/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="/img/7K.jpg" class="module-slide-img"
+                      alt="7 Killers">
+                    <figcaption class="module-slide-caption">7 Killers</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A Will Eternal/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/AWE.jpg"
+                      class="module-slide-img" alt="A Will Eternal">
+                    <figcaption class="module-slide-caption">A Will Eternal</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Battle Through the Heavens/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/BTTH.jpg"
+                      class="module-slide-img" alt="Battle Through the Heavens">
+                    <figcaption class="module-slide-caption">Battle Through the Heavens</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Child of Light/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/CoL.jpg"
+                      class="module-slide-img" alt="Child of Light">
+                    <figcaption class="module-slide-caption">Child of Light</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Demon Hunter/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="/img/DH.jpg" class="module-slide-img"
+                      alt="Demon Hunter">
+                    <figcaption class="module-slide-caption">Demon Hunter</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Desolate Era/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="/img/DE.jpg" class="module-slide-img"
+                      alt="Desolate Era">
+                    <figcaption class="module-slide-caption">Desolate Era</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Dragon King With Seven Stars/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/DKSS.jpg"
+                      class="module-slide-img" alt="Dragon King With Seven Stars">
+                    <figcaption class="module-slide-caption">Dragon King With Seven Stars</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Heavenly Jewel Change/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/HJC.jpg"
+                      class="module-slide-img" alt="Heavenly Jewel Change">
+                    <figcaption class="module-slide-caption">Heavenly Jewel Change</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Heroes Shed No Tears/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/HSNT.jpg"
+                      class="module-slide-img" alt="Heroes Shed No Tears">
+                    <figcaption class="module-slide-caption">Heroes Shed No Tears</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Horizon, Bright Moon, Sabre/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img src="/img/TYMYD.jpg"
+                      class="module-slide-img" alt="Horizon, Bright Moon, Sabre">
+                    <figcaption class="module-slide-caption">Horizon, Bright Moon, Sabre</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Short Story</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Short_Story/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Curious Book of Birds/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The Curious Book of Birds">
+                    <figcaption class="module-slide-caption">The Curious Book of Birds</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Birds in the Calendar/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Birds in the Calendar">
+                    <figcaption class="module-slide-caption">Birds in the Calendar</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/In Nesting Time/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="In Nesting Time">
+                    <figcaption class="module-slide-caption">In Nesting Time</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Bird Stories/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Bird Stories">
+                    <figcaption class="module-slide-caption">Bird Stories</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Up Grade/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="The Up Grade">
+                    <figcaption class="module-slide-caption">The Up Grade</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Textile Fabrics/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Textile Fabrics">
+                    <figcaption class="module-slide-caption">Textile Fabrics</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Miss Meredith/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Miss Meredith">
+                    <figcaption class="module-slide-caption">Miss Meredith</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Luck on the Wing/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Luck on the Wing">
+                    <figcaption class="module-slide-caption">Luck on the Wing</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Dreadnought Boys' World Cruise/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The Dreadnought Boys' World Cruise">
+                    <figcaption class="module-slide-caption">The Dreadnought Boys' World Cruise</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Cuba and Her People of To-day/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Cuba and Her People of To-day">
+                    <figcaption class="module-slide-caption">Cuba and Her People of To-day</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Thriller</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Thriller/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Final Diagnosis/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-final-diagnosis.jpg" class="module-slide-img"
+                      alt="The Final Diagnosis">
+                    <figcaption class="module-slide-caption">The Final Diagnosis</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Arthur Hailey</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Andromeda Strain/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-andromeda-strain.jpg" class="module-slide-img"
+                      alt="The Andromeda Strain">
+                    <figcaption class="module-slide-caption">The Andromeda Strain</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Chimera: A Jim Chapel Mission (Jim Chapel %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/chimera-a-jim-chapel-mission-jim-chapel-1.jpg"
+                      class="module-slide-img" alt="Chimera: A Jim Chapel Mission (Jim Chapel #1)">
+                    <figcaption class="module-slide-caption">Chimera: A Jim Chapel Mission (Jim Chapel #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">David Wellington</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Artifact/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/artifact.jpg"
+                      class="module-slide-img" alt="Artifact">
+                    <figcaption class="module-slide-caption">Artifact</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">F. Paul Wilson</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Terminal Man/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-terminal-man.jpg" class="module-slide-img"
+                      alt="The Terminal Man">
+                    <figcaption class="module-slide-caption">The Terminal Man</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/State Of Fear/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/state-of-fear.jpg"
+                      class="module-slide-img" alt="State Of Fear">
+                    <figcaption class="module-slide-caption">State Of Fear</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Five Patients/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/five-patients.jpg"
+                      class="module-slide-img" alt="Five Patients">
+                    <figcaption class="module-slide-caption">Five Patients</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Timeline/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://allnovel.net/images/timeline.jpg"
+                      class="module-slide-img" alt="Timeline">
+                    <figcaption class="module-slide-caption">Timeline</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Eaters of the Dead/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/eaters-of-the-dead.jpg" class="module-slide-img"
+                      alt="Eaters of the Dead">
+                    <figcaption class="module-slide-caption">Eaters of the Dead</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Lost World (Jurassic Park %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-lost-world-jurassic-park-2.jpg" class="module-slide-img"
+                      alt="The Lost World (Jurassic Park #2)">
+                    <figcaption class="module-slide-caption">The Lost World (Jurassic Park #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Michael Crichton</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Humorous</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Humorous/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Stupidest Angel (Pine Cove %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-stupidest-angel-pine-cove-3.jpg" class="module-slide-img"
+                      alt="The Stupidest Angel (Pine Cove #3)">
+                    <figcaption class="module-slide-caption">The Stupidest Angel (Pine Cove #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Christopher Moore</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Gump and Co. (Forrest Gump %232)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/gump-and-co-forrest-gump-2.jpg" class="module-slide-img"
+                      alt="Gump and Co. (Forrest Gump #2)">
+                    <figcaption class="module-slide-caption">Gump and Co. (Forrest Gump #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Winston Groom</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Go-Go Girls of the Apocalypse/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/go-go-girls-of-the-apocalypse.jpg" class="module-slide-img"
+                      alt="Go-Go Girls of the Apocalypse">
+                    <figcaption class="module-slide-caption">Go-Go Girls of the Apocalypse</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Victor Gischler</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Unseen Academicals (Discworld %2337)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/unseen-academicals-discworld-37.jpg" class="module-slide-img"
+                      alt="Unseen Academicals (Discworld #37)">
+                    <figcaption class="module-slide-caption">Unseen Academicals (Discworld #37)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Equal Rites (Discworld %233)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/equal-rites-discworld-3.jpg" class="module-slide-img"
+                      alt="Equal Rites (Discworld #3)">
+                    <figcaption class="module-slide-caption">Equal Rites (Discworld #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Mort (Discworld %234)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/mort-discworld-4.jpg" class="module-slide-img"
+                      alt="Mort (Discworld #4)">
+                    <figcaption class="module-slide-caption">Mort (Discworld #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Sourcery (Discworld %235)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/sourcery-discworld-5.jpg" class="module-slide-img"
+                      alt="Sourcery (Discworld #5)">
+                    <figcaption class="module-slide-caption">Sourcery (Discworld #5)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Wyrd Sisters (Discworld %236)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/wyrd-sisters-discworld-6.jpg" class="module-slide-img"
+                      alt="Wyrd Sisters (Discworld #6)">
+                    <figcaption class="module-slide-caption">Wyrd Sisters (Discworld #6)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Pyramids (Discworld %237)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/pyramids-discworld-7.jpg" class="module-slide-img"
+                      alt="Pyramids (Discworld #7)">
+                    <figcaption class="module-slide-caption">Pyramids (Discworld #7)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Guards! Guards! (Discworld %238)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/guards-guards-discworld-8.jpg" class="module-slide-img"
+                      alt="Guards! Guards! (Discworld #8)">
+                    <figcaption class="module-slide-caption">Guards! Guards! (Discworld #8)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Terry Pratchett</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Children's</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Children_s/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Cricket on the Hearth/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="http://novel.tingroom.com/file/upload/201907/29/09-53-10-19-1.jpg" class="module-slide-img"
+                      alt="The Cricket on the Hearth">
+                    <figcaption class="module-slide-caption">The Cricket on the Hearth</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Trail-Tales of Western Canada/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Trail-Tales of Western Canada">
+                    <figcaption class="module-slide-caption">Trail-Tales of Western Canada</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Young Captain Jack/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Young Captain Jack">
+                    <figcaption class="module-slide-caption">Young Captain Jack</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Walter Sherwood's Probation/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Walter Sherwood's Probation">
+                    <figcaption class="module-slide-caption">Walter Sherwood's Probation</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Wait and Hope A Plucky Boy's Luck/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Wait and Hope A Plucky Boy's Luck">
+                    <figcaption class="module-slide-caption">Wait and Hope A Plucky Boy's Luck</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Try and Trust/book.html" class="module-slide-a" data-eid="mqd_A21"
+                    data-bid="1014129383" data-auid="1339967"><img src="https://cunovel.com/defaultCover.png"
+                      class="module-slide-img" alt="Try and Trust">
+                    <figcaption class="module-slide-caption">Try and Trust</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Tom, The Bootblack or, The Road to Success/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Tom, The Bootblack or, The Road to Success">
+                    <figcaption class="module-slide-caption">Tom, The Bootblack or, The Road to Success</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Tom Temple's Career/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img" alt="Tom Temple's Career">
+                    <figcaption class="module-slide-caption">Tom Temple's Career</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Timothy Crump's Ward A Story of American Life/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="Timothy Crump's Ward A Story of American Life">
+                    <figcaption class="module-slide-caption">Timothy Crump's Ward A Story of American Life</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Young Outlaw or, Adrift in the Streets/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://cunovel.com/defaultCover.png" class="module-slide-img"
+                      alt="The Young Outlaw or, Adrift in the Streets">
+                    <figcaption class="module-slide-caption">The Young Outlaw or, Adrift in the Streets</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray"></span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Fantasy</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Fantasy/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/A Memory of Light (The Wheel of Time %2314)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/a-memory-of-light-the-wheel-of-time-14.jpg"
+                      class="module-slide-img" alt="A Memory of Light (The Wheel of Time #14)">
+                    <figcaption class="module-slide-caption">A Memory of Light (The Wheel of Time #14)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Robert Jordan</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Gift of Fire (Gift %232)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/gift-of-fire-gift-2.jpg" class="module-slide-img"
+                      alt="Gift of Fire (Gift #2)">
+                    <figcaption class="module-slide-caption">Gift of Fire (Gift #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jayne Ann Krentz</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Shield's Lady (Lost Colony %233)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/shield-s-lady-lost-colony-3.jpg" class="module-slide-img"
+                      alt="Shield's Lady (Lost Colony #3)">
+                    <figcaption class="module-slide-caption">Shield's Lady (Lost Colony #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jayne Ann Krentz</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Sweet Starfire (Lost Colony %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/sweet-starfire-lost-colony-1.jpg" class="module-slide-img"
+                      alt="Sweet Starfire (Lost Colony #1)">
+                    <figcaption class="module-slide-caption">Sweet Starfire (Lost Colony #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Jayne Ann Krentz</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/City of Heavenly Fire (The Mortal Instruments %236)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/city-of-heavenly-fire-the-mortal-instruments-6.jpg"
+                      class="module-slide-img" alt="City of Heavenly Fire (The Mortal Instruments #6)">
+                    <figcaption class="module-slide-caption">City of Heavenly Fire (The Mortal Instruments #6)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Cassandra Clare</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Crippled God (The Malazan Book of the Fallen %2310)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-crippled-god-the-malazan-book-of-the-fallen-10.jpg"
+                      class="module-slide-img" alt="The Crippled God (The Malazan Book of the Fallen #10)">
+                    <figcaption class="module-slide-caption">The Crippled God (The Malazan Book of the Fallen #10)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Steven Erikson</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Reaper's Gale (The Malazan Book of the Fallen %237)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/reaper-s-gale-the-malazan-book-of-the-fallen-7.jpg"
+                      class="module-slide-img" alt="Reaper's Gale (The Malazan Book of the Fallen #7)">
+                    <figcaption class="module-slide-caption">Reaper's Gale (The Malazan Book of the Fallen #7)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Steven Erikson</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Burning Stone (Crown of Stars %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-burning-stone-crown-of-stars-3.jpg" class="module-slide-img"
+                      alt="The Burning Stone (Crown of Stars #3)">
+                    <figcaption class="module-slide-caption">The Burning Stone (Crown of Stars #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Kelly Elliott</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Renegade's Magic (The Soldier Son Trilogy %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/renegade-s-magic-the-soldier-son-trilogy-3.jpg"
+                      class="module-slide-img" alt="Renegade's Magic (The Soldier Son Trilogy #3)">
+                    <figcaption class="module-slide-caption">Renegade's Magic (The Soldier Son Trilogy #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Robin Hobb</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Foundation's Edge (Foundation %234)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/foundation-s-edge-foundation-4.jpg" class="module-slide-img"
+                      alt="Foundation's Edge (Foundation #4)">
+                    <figcaption class="module-slide-caption">Foundation's Edge (Foundation #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Isaac Asimov</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Mystery</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Mystery/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/The Casual Vacancy/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-casual-vacancy.jpg" class="module-slide-img"
+                      alt="The Casual Vacancy">
+                    <figcaption class="module-slide-caption">The Casual Vacancy</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">J.K. Rowling</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A Bone to Pick (Aurora Teagarden %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/a-bone-to-pick-aurora-teagarden-2.jpg" class="module-slide-img"
+                      alt="A Bone to Pick (Aurora Teagarden #2)">
+                    <figcaption class="module-slide-caption">A Bone to Pick (Aurora Teagarden #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Three Bedrooms, One Corpse (Aurora Teagarden %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/three-bedrooms-one-corpse-aurora-teagarden-3.jpg"
+                      class="module-slide-img" alt="Three Bedrooms, One Corpse (Aurora Teagarden #3)">
+                    <figcaption class="module-slide-caption">Three Bedrooms, One Corpse (Aurora Teagarden #3)
+                    </figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Julius House (Aurora Teagarden %234)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-julius-house-aurora-teagarden-4.jpg" class="module-slide-img"
+                      alt="The Julius House (Aurora Teagarden #4)">
+                    <figcaption class="module-slide-caption">The Julius House (Aurora Teagarden #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Dead Over Heels (Aurora Teagarden %235)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/dead-over-heels-aurora-teagarden-5.jpg" class="module-slide-img"
+                      alt="Dead Over Heels (Aurora Teagarden #5)">
+                    <figcaption class="module-slide-caption">Dead Over Heels (Aurora Teagarden #5)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A Fool And His Honey (Aurora Teagarden %236)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/a-fool-and-his-honey-aurora-teagarden-6.jpg"
+                      class="module-slide-img" alt="A Fool And His Honey (Aurora Teagarden #6)">
+                    <figcaption class="module-slide-caption">A Fool And His Honey (Aurora Teagarden #6)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Last Scene Alive (Aurora Teagarden %237)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/last-scene-alive-aurora-teagarden-7.jpg" class="module-slide-img"
+                      alt="Last Scene Alive (Aurora Teagarden #7)">
+                    <figcaption class="module-slide-caption">Last Scene Alive (Aurora Teagarden #7)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Poppy Done to Death (Aurora Teagarden %238)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/poppy-done-to-death-aurora-teagarden-8.jpg"
+                      class="module-slide-img" alt="Poppy Done to Death (Aurora Teagarden #8)">
+                    <figcaption class="module-slide-caption">Poppy Done to Death (Aurora Teagarden #8)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Charlaine Harris</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Swan Thieves/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-swan-thieves.jpg" class="module-slide-img"
+                      alt="The Swan Thieves">
+                    <figcaption class="module-slide-caption">The Swan Thieves</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Elizabeth Kostova</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Blood Brothers (Sign of Seven %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/blood-brothers-sign-of-seven-1.jpg" class="module-slide-img"
+                      alt="Blood Brothers (Sign of Seven #1)">
+                    <figcaption class="module-slide-caption">Blood Brothers (Sign of Seven #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Nora Roberts</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+          <div class="module" data-l1="5">
+            <!-- 模块标题 -->
+            <div class="module-header">
+              <div class="module-header-l">
+                <h3 class="module-title">Historical</h3>
+              </div>
+              <div class="module-header-r"><a href="/category_Historical/1.html" class="module-header-btn"
+                  data-eid="mqd_A20">View More »
+                  <svg class="icon icon-arrow-r" aria-hidden="true">
+                    <use xlink:href="#icon-arrow-r"></use>
+                  </svg>
+                </a></div>
+            </div><!-- 侧滑 -->
+            <div class="module-slide">
+              <ol class="module-slide-ol" role="listbox" title="水平列表">
+
+                <li class="module-slide-li"><a href="/Married By Morning (The Hathaways %234)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/married-by-morning-the-hathaways-4.jpg" class="module-slide-img"
+                      alt="Married By Morning (The Hathaways #4)">
+                    <figcaption class="module-slide-caption">Married By Morning (The Hathaways #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Lisa Kleypas</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/A Hathaway Wedding (The Hathaways %232.5)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/a-hathaway-wedding-the-hathaways-2-5.jpg"
+                      class="module-slide-img" alt="A Hathaway Wedding (The Hathaways #2.5)">
+                    <figcaption class="module-slide-caption">A Hathaway Wedding (The Hathaways #2.5)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Lisa Kleypas</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Seduce Me at Sunrise (The Hathaways %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/seduce-me-at-sunrise-the-hathaways-2.jpg"
+                      class="module-slide-img" alt="Seduce Me at Sunrise (The Hathaways #2)">
+                    <figcaption class="module-slide-caption">Seduce Me at Sunrise (The Hathaways #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Lisa Kleypas</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Tempt Me at Twilight (The Hathaways %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/tempt-me-at-twilight-the-hathaways-3.jpg"
+                      class="module-slide-img" alt="Tempt Me at Twilight (The Hathaways #3)">
+                    <figcaption class="module-slide-caption">Tempt Me at Twilight (The Hathaways #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Lisa Kleypas</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Mine Till Midnight (The Hathaways %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/mine-till-midnight-the-hathaways-1.jpg" class="module-slide-img"
+                      alt="Mine Till Midnight (The Hathaways #1)">
+                    <figcaption class="module-slide-caption">Mine Till Midnight (The Hathaways #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Lisa Kleypas</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Castles (Crown's Spies %234)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/castles-crown-s-spies-4.jpg" class="module-slide-img"
+                      alt="Castles (Crown's Spies #4)">
+                    <figcaption class="module-slide-caption">Castles (Crown's Spies #4)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Julie Garwood</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Gift (Crown's Spies %233)/book.html" class="module-slide-a"
+                    data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-gift-crown-s-spies-3.jpg" class="module-slide-img"
+                      alt="The Gift (Crown's Spies #3)">
+                    <figcaption class="module-slide-caption">The Gift (Crown's Spies #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Julie Garwood</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Guardian Angel (Crown's Spies %232)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/guardian-angel-crown-s-spies-2.jpg" class="module-slide-img"
+                      alt="Guardian Angel (Crown's Spies #2)">
+                    <figcaption class="module-slide-caption">Guardian Angel (Crown's Spies #2)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Julie Garwood</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/The Lion's Lady (Crown's Spies %231)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/the-lion-s-lady-crown-s-spies-1.jpg" class="module-slide-img"
+                      alt="The Lion's Lady (Crown's Spies #1)">
+                    <figcaption class="module-slide-caption">The Lion's Lady (Crown's Spies #1)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Julie Garwood</span>
+                    </p>
+                  </a></li>
+                <li class="module-slide-li"><a href="/Until You (Westmoreland Saga %233)/book.html"
+                    class="module-slide-a" data-eid="mqd_A21" data-bid="1014129383" data-auid="1339967"><img
+                      src="https://allnovel.net/images/until-you-westmoreland-saga-3.jpg" class="module-slide-img"
+                      alt="Until You (Westmoreland Saga #3)">
+                    <figcaption class="module-slide-caption">Until You (Westmoreland Saga #3)</figcaption>
+                    <p class="module-slide-author" role="option">
+                      <aria>Author：</aria>
+                      <span class="gray">Judith McNaught</span>
+                    </p>
+                  </a></li>
+              </ol>
+            </div>
+          </div>
+        </div>
+        <!--/row-->
+      </div>
+      <!--/.col-xs-12.col-sm-9-->
+      <div class="col-xs-12 col-sm-3 sidebar-offcanvas" id="sidebar">
+        <div class="list-group"> <a href="/丧钟为谁而鸣 For Whom the Bell TollS/book.html" class="list-group-item">丧钟为谁而鸣 For
+            Whom the Bell TollS</a><a href="/Ask For It (Georgian %231)/book.html" class="list-group-item">Ask For It
+            (Georgian #1)</a><a href="/The Midnight Guest/book.html" class="list-group-item">The Midnight Guest</a><a
+            href="/Home Scenes and Heart Studies/book.html" class="list-group-item">Home Scenes and Heart Studies</a><a
+            href="/A Roving Commission/book.html" class="list-group-item">A Roving Commission</a><a
+            href="/The Lay of the Nibelung Men/book.html" class="list-group-item">The Lay of the Nibelung Men</a><a
+            href="/The Cleric Quintet: In Sylvan Shadows (The Cleric Quintet %232)/book.html"
+            class="list-group-item">The Cleric Quintet: In Sylvan Shadows (The Cleric Quintet #2)</a><a
+            href="/Unravel Me (Shatter Me %232)/book.html" class="list-group-item">Unravel Me (Shatter Me #2)</a><a
+            href="/Rujub, the Juggler/book.html" class="list-group-item">Rujub, the Juggler</a><a
+            href="/My African Journey/book.html" class="list-group-item">My African Journey</a> </div>
+      </div>
+      <!--/.sidebar-offcanvas-->
+    </div>
+    <!--/row-->
+  </div>
+  <!--/.container-->
+  <hr>
+  <footer class="container">
+    <p>© Company 2014</p>
+  </footer><!-- jQuery (Bootstrap 的所有 JavaScript 插件都依赖 jQuery，所以必须放在前边) -->
+  <script src="https://cdn.jsdelivr.net/npm/jquery@1.12.4/dist/jquery.min.js"></script>
+  <!-- 加载 Bootstrap 的所有 JavaScript 插件。你也可以根据需要只加载单个插件。 -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/js/bootstrap.min.js"></script>
+</body>
+
+</html>

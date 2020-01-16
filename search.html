@@ -1,0 +1,399 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+  <title>CUNOVEL</title>
+
+  <meta name="keywords" content="novel, english novel, english book, book"/>
+  <!-- Bootstrap -->
+  <script
+      src="https://code.jquery.com/jquery-3.4.1.min.js"
+      integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+      crossorigin="anonymous"></script>
+  <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
+        crossorigin="anonymous">
+
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+          integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+          crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.bundle.min.js"
+          integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o"
+          crossorigin="anonymous"></script>
+  <!--<link href="https://cunovel.com/asset/css/index.css" rel="stylesheet">-->
+  <!-- HTML5 shim 和 Respond.js 是为了让 IE8 支持 HTML5 元素和媒体查询（media queries）功能 -->
+  <!-- 警告：通过 file:// 协议（就是直接将 html 页面拖拽到浏览器中）访问页面时 Respond.js 不起作用 -->
+  <!--[if lt IE 9]>
+  <script src="https://cdn.jsdelivr.net/npm/html5shiv@3.7.3/dist/html5shiv.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/respond.js@1.4.2/dest/respond.min.js"></script>
+  <![endif]-->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <link rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/open-iconic/1.1.1/font/css/open-iconic-bootstrap.min.css"
+        integrity="sha256-BJ/G+e+y7bQdrYkS2RBTyNfBHpA9IuGaPmf9htub5MQ=" crossorigin="anonymous"/>
+  <script>
+    (adsbygoogle = window.adsbygoogle || []).push({
+      google_ad_client: "ca-pub-1217509255829092",
+      enable_page_level_ads: true
+    });
+  </script>
+  <style type="text/css">
+    .chapter-title {
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+    }
+
+    ol, ul {
+      padding: 0;
+      list-style: none;
+    }
+
+    li {
+      display: list-item;
+      text-align: -webkit-match-parent;
+    }
+
+    .null {
+      font-size: .8125rem;
+      position: absolute;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      max-width: 50%;
+      height: 4.875rem;
+      margin: auto;
+      text-align: center;
+      color: #969ba3
+    }
+
+    .null::before {
+      display: block;
+      width: 2.25rem;
+      height: 3rem;
+      margin: 0 auto .75rem;
+      content: '';
+      background: url(data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzYiIGhlaWdodD0iNDgiIHZpZXdCb3g9IjAgMCAzNiA0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R3JvdXAgMzM8L3RpdGxlPjxnIHN0cm9rZT0iI0MwQzVDQyIgc3Ryb2tlLXdpZHRoPSIyIiBmaWxsPSJub25lIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik0yIDQ3Yy0uNTUzIDAtMS0uNDU1LTEtMS4wMDRWMi4wMDRDMSAxLjQ0OSAxLjQ0NyAxIDIgMWgyM2wxMCAxMHYzNWMwIC41NTItLjQ1NSAxLTEgMUgyeiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8+PHBhdGggZD0iTTI1IDF2OS4wMDVjMCAuNTUuNDU2Ljk5NS45OTUuOTk1SDM1Ii8+PHBhdGggZD0iTTcgMThoMTJNNyAyNmgyMk03IDM0aDIyIiBzdHJva2UtbGluZWNhcD0icm91bmQiLz48L2c+PC9zdmc+) no-repeat center;
+      background-size: 100% 100%
+    }
+
+    .book-li {
+
+    }
+
+    .book-layout {
+      position: relative;
+      display: block;
+      overflow: hidden;
+      padding: 10px;
+      -webkit-transition: padding-left .15s;
+      transition: padding-left .15s;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+      outline: 0;
+    }
+
+    .book-cover {
+      font-size: 0;
+      float: left;
+      width: 72px;
+      height: 100px;
+      margin-right: 12px;
+      box-shadow: 0 1px 3px rgba(0, 0, 0, .3);
+    }
+
+    .book-cell {
+      overflow: hidden;
+    }
+
+    .book-title-x {
+      display: block;
+      overflow: hidden;
+    }
+
+    .book-desc {
+      font-size: 16px;
+      line-height: 20px;
+      overflow: hidden;
+      margin: 4px 0;
+      color: #969ba3;
+    }
+
+    .book-author .icon-human {
+      font-size: 14px;
+      margin-right: .1875rem;
+      vertical-align: -.15ex;
+    }
+
+    .book-ol-normal .book-desc, .book-ol-time .book-desc {
+      line-height: 20px;
+      display: -webkit-box;
+      height: 40px;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+    }
+
+    .book-layout mark {
+      color: #ed424b;
+      background-color: transparent;
+    }
+
+    .mark, mark {
+      padding: .2em;
+      background-color: #fcf8e3;
+    }
+
+    .book-meta {
+      font-size: 14px;
+      overflow: hidden;
+    }
+
+    .book-meta-l {
+      float: left;
+    }
+
+    .book-author {
+      font-size: 14px;
+      display: block;
+      overflow: hidden;
+      max-width: 10em;
+      max-width: calc(100vw - 2rem - (176rem / 16));
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      color: #969ba3;
+    }
+
+    .book-layout h4 {
+      font-size: 100%;
+    }
+
+    .gray {
+      color: gray;
+    }
+
+    .book-meta-r {
+      position: relative;
+      float: right;
+    }
+
+    .book-meta-r span {
+      font-size: 12px;
+    }
+
+    .book-li::after {
+      display: block;
+      margin-top: -1px;
+      margin-left: 10px;
+      content: '';
+      -webkit-transition: margin-left .15s;
+      transition: margin-left .15s;
+      border-bottom: 1px solid #f0f1f2;
+    }
+  </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-144813087-2"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'UA-144813087-2');
+  </script>
+  <script>
+    function hideAll() {
+      $("#result").hide()
+      $("#noContent").hide()
+      $("#loading").hide()
+    }
+
+    function loading() {
+      hideAll()
+      $("#loading").show()
+    }
+
+    function noContent() {
+      hideAll()
+      $("#noContent").show()
+    }
+
+    function showResult(result) {
+      hideAll()
+      $("#result").html(result)
+      $("#result").show()
+    }
+
+    function search(key) {
+      loading();
+      var itemTemplate = " <li class=\"book-li \">\n"
+          + "          <a href=\"{link}\" class=\"book-layout\">\n"
+          + "            <img src=\"{cover}\" class=\"book-cover\"\n"
+          + "                 alt=\"\">\n"
+          + "            <div class=\"book-cell\">\n"
+          + "              <div class=\"book-title-x\">\n"
+          + "                <h4 class=\"book-title\">\n"
+          + "                  {title}\n"
+          + "                </h4>\n"
+          + "              </div>\n"
+          + "              <p class=\"book-desc\">\n"
+          + "                {description}\n"
+          + "              <div class=\"book-meta\">\n"
+          + "                <div class=\"book-meta-l\">\n"
+          + "                                <span class=\"book-author oi oi-person\">\n"
+          + "                                   {author}\n"
+          + "                                </span>\n"
+          + "                </div>\n"
+          + "                <div class=\"book-meta-r\">\n"
+          + "                                <span class=\"origin-right\">\n"
+          + "                                    <em class=\"tag-small gray\">{type}</em><em\n"
+          + "                                    class=\"tag-small red\"></em><em\n"
+          + "                                    class=\"tag-small blue\"></em>\n"
+          + "                                </span>\n"
+          + "                </div>\n"
+          + "              </div>\n"
+          + "            </div>\n"
+          + "          </a>\n"
+          + "        </li>";
+
+      function subString(str, len) {
+        parser = new DOMParser();
+        htmlDoc = parser.parseFromString(str, "text/html");
+        str = htmlDoc.body.innerText
+        return str;
+        //return str.substr(0, Math.min(len, str.length))
+      }
+
+      $.get(
+          'http://api.xtestw.com/v1/search?q=' + key,
+          function (data) {
+            if (data == null || data === undefined || data.length <= 0) {
+              noContent();
+              return;
+            }
+            console.log(data)
+            html = ""
+            for (var i = 0; i < data.length; i++) {
+              html = html + itemTemplate.replace("{title}", data[i].name)
+              .replace("{description}", subString(data[i].description, 60))
+              .replace("{link}", data[i].link)
+              .replace("{cover}", data[i].cover)
+              .replace("{author}", data[i].author)
+              .replace("{type}", data[i].type)
+            }
+            showResult(html)
+          }
+      );
+    }
+
+    function getUrlParam(name) {
+      var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)"); //构造一个含有目标参数的正则表达式对象
+      var r = window.location.search.substr(1).match(reg);  //匹配目标参数
+      if (r != null) {
+        return unescape(r[2]);
+      }
+      return null; //返回参数值
+    }
+
+    $(function () {
+      noContent()
+      $("#search-btn").click(
+          function () {
+
+            var key = $("#search-kw").val();
+            if (key != null && key !== "") {
+              window.location.href = "./search.html?q=" + key;
+              // search(key)
+            }
+          }
+      );
+      var q = getUrlParam("q")
+      $("#search-kw").val("")
+      if (q != null && q !== undefined) {
+        $("#search-kw").val(q)
+        search(q);
+      }
+
+    })
+
+
+  </script>
+</head>
+<body class="container" style="margin: auto; padding: 0px">
+<div class="row" style="margin:0px;">
+
+  <div class="input-group col-xs-12"
+       style="margin:0px; padding: 1px; ">
+
+    <input type="text" class="form-control" id="search-kw" type="search" name="kw"
+           placeholder="Search Book in CUNOVEL.COM" / >
+
+    <span class="input-group-btn" style="padding-left: 2px;">
+
+        <a href="javascript:void()" class="btn-search btn btn-info"
+           id="search-btn"> Search</a>
+
+            </span>
+
+  </div>
+
+</div>
+<div class="row" style="margin: auto;">
+  <div class="col-xs-12">
+    <div class="search-content">
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+      <ins class="adsbygoogle"
+           style="display:block"
+           data-ad-format="fluid"
+           data-ad-layout-key="-fb+5w+4e-db+86"
+           data-ad-client="ca-pub-1217509255829092"
+           data-ad-slot="8949775178"></ins>
+      <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+      </script>
+      <div id="searchResult" class="search-detail">
+
+        <div id="">
+          <ol id="result" class="book-ol book-ol-normal jsBooks" data-cached="true">
+          </ol>
+        </div>
+
+        <!-- 分类搜索结果 E -->
+
+        <div id="loading" style="margin: .75rem 0;background-color: #fff;">
+
+          <div class="null-x">
+            <div class="spinner-border"
+                 style="position: absolute;left: 0px;right: 0px;top: 0px;bottom: 0px;margin: auto;"
+                 role="status">
+              <span class="sr-only">Loading...</span>
+            </div>
+          </div>
+        </div>
+
+        <div id="noContent" class="module">
+          <div class="null-x">
+            <div class="null">Not Found The Books You Wanted.</div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+
+
+</html>
